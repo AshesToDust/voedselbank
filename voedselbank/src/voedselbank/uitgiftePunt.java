@@ -91,8 +91,8 @@ public class uitgiftePunt {
         }
         
         // Swing - frame
-        frame.setSize(440, 640);
-        frame.setTitle("VOEHAA - Uitgiftepunten");
+        frame.setSize(440, 610);
+        frame.setTitle("Voedselbank Haaglanden App - Uitgiftepunten");
         frame.add(panel);
         
         // Het frame mag niet direct worden afgesloten als de gebruiker op het
